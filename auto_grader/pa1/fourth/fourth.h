@@ -1,0 +1,10 @@
+double** transpose();
+void add();
+double factor();
+double factorIdent();
+void rowMultiply();
+double** invert();
+double** multiply();
+void freeArray();
+double** copyInverse();
+void printmatrix();
